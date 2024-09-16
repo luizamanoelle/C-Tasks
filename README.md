@@ -1,7 +1,7 @@
 # Faculdade: Projetos e Tasks
 
 ## Index
- * [Sobre](Sobre)
+ * [Sobre](https://github.com/luizamanoelle/Faculdade-Projetos-e-Tasks/blob/main/README.md?plain=1#sobre)
  * [Projetos](Projetos)
  * Tasks
 
