@@ -1,8 +1,8 @@
 # Faculdade: Projetos e Tasks
 
 ## Index
- * Sobre
- * Projetos
+ * [Sobre](Sobre)
+ * [Projetos](Projetos)
  * Tasks
 
 ## Sobre
