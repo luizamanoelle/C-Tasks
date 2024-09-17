@@ -1,10 +1,11 @@
 
 ## Laboratório de Programação I, segundo semestre de 2023
 ELC1065 DLSC/CT/UFSM
-*professor:* Benhur Stein (benhur+l123b@inf.ufsm.br)
 
-*(Projetos)[]
-*(Tasks)[]
+**professor:** Benhur Stein (benhur+l123b@inf.ufsm.br)
+
+ * (Projetos)[]
+ * (Tasks)[]
 
 ##Tasks
 | Nome | Linguagem | Descrição | Semestre |
