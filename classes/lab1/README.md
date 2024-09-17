@@ -4,12 +4,12 @@ ELC1065 DLSC/CT/UFSM
 
 **professor:** Benhur Stein (benhur+l123b@inf.ufsm.br)
 
- * (Projetos)[]
- * (Tasks)[]
+ * [Projetos]()
+ * [Tasks]()
 
-##Tasks
+#Tasks
 | Nome | Linguagem | Descrição | Semestre |
 | ---- | --------- | --------- | -------- |
-| (gato rato)[] | C | Primeiros printf em C, com o objetivo de imprimir um gato e um rato em caracteres| 3° |
+| [gato rato]() | C | Primeiros printf em C, com o objetivo de imprimir um gato e um rato em caracteres| 3° |
 
 
