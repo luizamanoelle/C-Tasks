@@ -1,0 +1,42 @@
+// l123b - e1
+// programa para dizer oi
+// Luiza Manoelle
+// 2023-08-16
+#include <stdio.h>
+
+void ratinho()
+{
+  printf("\n");
+  printf("<:3)~~~\n");
+  printf("\n");
+}
+void gatinho()
+{
+  printf("=^..^=\n");
+  printf("\n");
+}
+void ratão()
+{
+  printf(" _   _\n");
+  printf("(_)_(_)\n");
+  printf(" (o o)\n");
+  printf("==\\o/==\n");
+  printf("\n");
+}
+void gatão()
+{
+  printf(" /\\_/\\\n");
+  printf("( o.o )\n");
+  printf(" > ^ <\n");
+  printf("\n");
+}
+int main()
+{
+  printf("Oi,\n");
+  ratinho();
+  gatinho();
+  ratão();
+  gatão();
+  printf("mundo\n");
+}
+
