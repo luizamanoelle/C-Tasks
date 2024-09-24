@@ -1,9 +1,9 @@
-### Mata Palavras ###
+# Mata Palavras #
 
-# Objetivos ##
+## Objetivos ##
 Este projeto tem como objetivo desenvolver um jogo de digitação onde o jogador precisa digitar palavras corretamente dentro de um tempo limitado. O jogo visa aprimorar as habilidades de digitação dos usuários, proporcionando uma experiência interativa e desafiadora. As palavras aparecem em uma tela e o jogador deve digitá-las corretamente antes que o tempo acabe.
 
-# Os principais objetivos do jogo incluem: #
+## Os principais objetivos do jogo incluem: ##
 
 Treinamento de digitação rápida e precisa: O jogador deve selecionar e digitar palavras corretamente, melhorando a velocidade de digitação.
 Pressão do tempo: O jogador tem um tempo limitado para digitar todas as palavras da tela, incentivando o desenvolvimento de habilidades sob pressão.
