@@ -8,7 +8,7 @@ Este projeto tem como objetivo desenvolver um jogo de digitação onde o jogador
  - Treinamento de digitação rápida e precisa: O jogador deve selecionar e digitar palavras corretamente, melhorando a velocidade de digitação.
  - Pressão do tempo: O jogador tem um tempo limitado para digitar todas as palavras da tela, incentivando o desenvolvimento de habilidades sob pressão.
  - Interface visual intuitiva: O jogo apresenta uma interface limpa, com destaque para a palavra selecionada e o tempo restante.
-   
+
  ## Requisitos do Projeto: ##
  - Matriz de palavras: O jogo deve carregar um conjunto de palavras de um arquivo de texto (palavras.txt) e exibir uma seleção dessas palavras em uma matriz na tela.
  - Seleção e remoção de palavras: O jogador deve ser capaz de selecionar uma palavra ao digitar sua primeira letra e, em seguida, remover cada letra sucessivamente ao continuar digitando.
