@@ -11,7 +11,7 @@ Esse repositório tem como objetivo armazenar os projetos e tasks realizados dur
 ## Projetos
 | Nome  | Linguagem | Matéria | Semestre |
 | ----- | --------- | --------| -------- |
-| [mata-palavras](https://github.com/luizamanoelle/Faculdade-Projetos-e-Tasks/tree/main/projetos/mata-palavra) | <center> C </center> | Laboratorio de Programação I | <center> 1° </center> |
+| [mata-palavras](https://github.com/luizamanoelle/Faculdade-Projetos-e-Tasks/tree/main/projetos/mata-palavra) | <center>C</center> | Laboratorio de Programação I | <center>1°</center> |
 
 ## Task
 * [Laboratório de Programação I]()
