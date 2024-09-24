@@ -3,7 +3,7 @@
 ## Index
  * [Sobre](##Sobre)
  * [Projetos](##Projetos)
- * Tasks
+ * [Tasks](##Task)
 
 ## Sobre
 Esse repositório tem como objetivo armazenar os projetos e tasks realizados durante a graduação em Sistemas de Informação na UFSM.
@@ -11,7 +11,7 @@ Esse repositório tem como objetivo armazenar os projetos e tasks realizados dur
 ## Projetos
 | Nome  | Linguagem | Matéria | Semestre |
 | ----- | --------- | --------| -------- |
-| [mata-palavras]() | C | Laboratorio de Programação I | 1° |
+| [mata-palavras](https://github.com/luizamanoelle/Faculdade-Projetos-e-Tasks/tree/main/projetos/mata-palavra) |  C  | Laboratorio de Programação I |  1°  |
 
 ## Task
 * [Laboratório de Programação I]()
