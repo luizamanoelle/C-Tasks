@@ -12,9 +12,13 @@ Interface gráfica via terminal: O código utiliza uma biblioteca de controle de
 
 ## Requisitos do Projeto:
   **Manipulação de Cartas:** O jogo deve manipular pilhas de cartas, permitindo que o jogador mova cartas de uma pilha para outra, respeitando regras específicas (por exemplo, mover uma carta para a pilha de saída apenas se ela seguir a ordem correta de naipe e valor).
+  
   **Controle de Teclado:** O jogador deve inserir comandos pelo teclado, e o programa deve processar essas entradas corretamente, permitindo movimentos como:
     - Mover cartas entre pilhas.
     - Verificar se o movimento é válido com base no estado das pilhas.
+    
   **Atualização Visual:** O programa deve constantemente redesenhar o estado do jogo na tela, exibindo as pilhas de cartas, o monte, o descarte, as pilhas de saída e a pontuação.
+  
   **Pontuação e Temporizador:** O jogo deve calcular e exibir a pontuação, bem como controlar o tempo de jogo desde o início.
-Verificação de Vitória: O jogo precisa identificar quando o jogador atingiu a condição de vitória (por exemplo, ao organizar todas as cartas nas pilhas de saída).
+  
+ **Verificação de Vitória:** O jogo precisa identificar quando o jogador atingiu a condição de vitória (por exemplo, ao organizar todas as cartas nas pilhas de saída).
