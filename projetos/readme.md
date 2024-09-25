@@ -1,6 +1,6 @@
 # Klondike
 
-## Objetivos do Projeto:
+## Objetivos do Projeto
   **Desenvolver um jogo de paciência:** O projeto envolve a implementação de um jogo de paciência com funcionalidades como movimentação de cartas entre pilhas principais e pilhas de saída.
 
   **Controlar as cartas e pontuação:** O jogo gerencia cartas em diferentes pilhas (principal, monte, descarte, e saída), atualiza o status do jogo com base nas jogadas e controla a pontuação do jogador.
@@ -10,7 +10,7 @@ Interface gráfica via terminal: O código utiliza uma biblioteca de controle de
 
   **Concluir o jogo:** O jogo termina quando todas as condições de vitória forem alcançadas (como mover todas as cartas para as pilhas de saída) ou quando o jogador não tiver mais movimentos possíveis.
 
-## Requisitos do Projeto:
+## Requisitos do Projeto
   **Manipulação de Cartas:** O jogo deve manipular pilhas de cartas, permitindo que o jogador mova cartas de uma pilha para outra, respeitando regras específicas (por exemplo, mover uma carta para a pilha de saída apenas se ela seguir a ordem correta de naipe e valor).
   
   **Controle de Teclado:** O jogador deve inserir comandos pelo teclado, e o programa deve processar essas entradas corretamente, permitindo movimentos como:
